@@ -1,1 +1,4 @@
 ~ Wokring on random tasks, whatever comes to mind
+
+
+I am copying the matplotlib documentation for an animated 3d walk - just to see if I can create animated graphs (https://matplotlib.org/stable/gallery/animation/random_walk.html). Luckily ChatGPT helped me in producing the actual animated version, as the original source code produced a graph with no animation atached to it. The changes that were made by ChatGPT included using 'Agg' for headless environments and saving the anmation as a GIF. To clarify, none of this code is mine, I simply wanted to animate a 3D random walk
